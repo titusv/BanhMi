@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527416554103",
+    "firebase_url": "https://banhmiapp.firebaseio.com",
+    "project_id": "banhmiapp",
+    "storage_bucket": "banhmiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527416554103:android:493f753cfa44eefd6f8c72",
+        "android_client_info": {
+          "package_name": "com.example.banhmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527416554103-r139f3g013ei6fqrn86isjpqkcuceolv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1m0YEMTMp4cm9FPDVur5aqmB3qNnAAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527416554103-r139f3g013ei6fqrn86isjpqkcuceolv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
